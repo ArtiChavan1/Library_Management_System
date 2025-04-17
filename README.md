@@ -59,7 +59,7 @@ LibraryManagement/
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/ArtiChavan1/Library_Management_System/tree/main
 cd Django_Library_Management_System
 ```
 
