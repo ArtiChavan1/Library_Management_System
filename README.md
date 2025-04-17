@@ -60,7 +60,7 @@ LibraryManagement/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/ArtiChavan1/Library_Management_System/tree/main
-cd Django_Library_Management_System
+cd Library_Management_System
 ```
 
 ### 2. Set Up Virtual Environment
